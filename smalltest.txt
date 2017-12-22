@@ -1,4 +1,3 @@
-http://purl.obolibrary.org/obo/aeo.owl
-http://purl.obolibrary.org/obo/agro.owl
-http://purl.obolibrary.org/obo/bco.owl
-http://purl.obolibrary.org/obo/rnao.owl
+http://purl.obolibrary.org/obo/omit.owl
+http://purl.obolibrary.org/obo/ncbitaxon.owl
+http://purl.obolibrary.org/obo/pr.owl
